@@ -1,0 +1,8 @@
+# Arquivos de compilação
+*.class
+
+# Diretórios de build
+/bin/
+
+# Arquivos do VS Code
+.vscode/
